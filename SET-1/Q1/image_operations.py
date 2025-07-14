@@ -1,7 +1,7 @@
 import cv2
 import os
 
-image_path = '../elephant.jpg'
+image_path =  r'd:\Image-and-Video-Processing-Lab\SET-1\elephant.jpg'
 image = cv2.imread(image_path)
 
 # a. Read an image
